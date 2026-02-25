@@ -1,0 +1,39 @@
+:root{
+    background-color:aquamarine;
+}
+.header
+{display: flex;
+    color:bisque;
+    flex-direction:row;
+    gap:20px;
+    justify-content:space-around;
+    background-color:rgb(255, 255, 13);
+    margin-top:10px;
+    padding: 2rem;
+
+
+    
+}
+.header-left
+{
+    background-color:blueviolet;
+}
+.header-right
+{
+    background-color:brown;
+}
+.lists
+{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    justify-content: space-around;
+    padding:1rem;
+    margin-top:1rem;
+    background-color:#aaa123;
+
+}
+li a 
+{
+    
+}
